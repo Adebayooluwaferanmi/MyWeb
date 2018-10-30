@@ -1,0 +1,136 @@
+/*COLOUR PALETTE
+#2B2D42 -DARK BLUE
+#8D99AE -LIGHTBLUE
+#EDF2F4 - BLUEWHITE
+#EF233C -RED
+#00171F - RICHBLACK
+#003459 - PRUSSUIAN BLUE
+#007EA7 - 
+#00A8E8 - VIVID */
+ 
+/* header section*/
+body {
+		background: #EDF2F4;
+		width :950px;
+		margin: 0 ; 
+	}
+header {
+	 width: 870px  ;
+	 background: #2B2D42;
+     color: #EDF2F4;
+     margin: 5px auto ;
+     padding : 0px; 
+     height:150px; 
+    
+}
+
+img { 
+	width: 110px;
+	height: 100px;
+	border-radius:100px;
+	display: inline-block;
+	padding:0px;
+	margin:0 auto 0 125px ;
+	overflow:hidden;
+	float : left;
+  
+}
+
+h1 {
+	display: inline-block;
+	margin: 5px  30px 0 30px ; 
+	font-size: 1.85em;
+	text-align: center;
+	width: 850px; 
+	overflow:hidden;
+	
+}
+
+.head-p {
+	width: 500px; 
+	display: inline;
+	text-align:center;
+	font-size: 1rem;
+	padding: 0px 0; 
+	margin: 0 auto 20px auto ;
+	float : left;
+	
+}
+
+#tabs {
+	margin: 5px 5px;
+	
+	float : left;
+}
+#tabs ul {
+	font-color: white;
+	display: inline-block;
+	
+}
+#tabs a {
+	 color: white;
+	 border:5px  solid;
+	 background: darkblue;
+	 padding: 5px  4px;
+	 display:inline-block;
+	 font-size: 10px;
+	 margin: 0 3px  ;
+}
+a:hover {
+	background:black;
+}
+a:visited {
+	background: #2B2D42;
+}
+ 
+ p, h2, h3, #services {
+ 	width: 65%;
+ 	margin: auto;
+ 	text-align: justify;
+ 	font-size: 1.5em; 
+ 	
+ 		
+ }
+ .column {
+ 	display: block;
+ 	border: 2px solid white;
+ 	margin: 5px  auto;
+ 	border-width: 90px;
+ 	border-height: auto;
+ 	padding: 50px;
+ }
+ 
+ /* ------------aside -------------*/
+ aside {
+ 	width : 600px;
+ 	color : white; 
+ 	background : #2B2D42;
+ 	margin-left : 20px;
+ 	border : 2px solid white;
+ 	float : left; 
+ 	padding : 20px 0; 
+ 	margin : 20px 0;
+ }
+ 
+ /* -----------footer--------------*/
+ .footer  a {
+ 	margin : 2px 2px;
+ 	 display : inline-block;
+ 	background : #2B2D42; 
+ 	color : #EDF2F4;
+ 	padding :10px; 
+ 	 
+ }
+
+.footer {
+	margin: 20px auto; 
+	float : right; 
+	width : 250px;
+}
+
+ 
+/* body section*/
+
+
+/* partn*/
+    
